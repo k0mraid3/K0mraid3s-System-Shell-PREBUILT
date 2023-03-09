@@ -1,5 +1,6 @@
 # K0mraid3s-System-Shell
-Offical Repo for K0mraid3s System Shell Exploit for Samsung Mobile Devices. 
+As seen on XDA before the public disclousure was removed by XDA Moderators.
+It will otherwise remain unchanged here as an archive.
 
 This is expected to work for EVERY single Samsung Mobile Device made TO-DATE (01/19/2023)
 
