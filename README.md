@@ -1,4 +1,5 @@
 # K0mraid3s-System-Shell
+PATCHED AS OF 02/2023
 As seen on XDA before the public disclousure was removed by XDA Moderators.
 It will otherwise remain unchanged here as an archive.
 
